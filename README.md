@@ -12,7 +12,5 @@ Implemenatioa of CRUD operations using GET, PUT, POST, PATCH, DEL.
 npm start
 ```
 <p align="center">
-  <a href="https://github.com/anand434/NodeJs-Express-App/README.md">
-    <img src="img/img1.jpg" alt="Logo" width="80" height="80">
-  </a>
+  <img src="https://github.com/anand434/NodeJs-Express-App/blob/main/img/img1.JPG" width="500" height="400">
 </p>
