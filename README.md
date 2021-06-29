@@ -7,6 +7,10 @@ Implemenatioa of CRUD operations using GET, PUT, POST, PATCH, DEL.
 
 ### Executing program
 * Clone/Download Repo.
-* In command line type: npm start   to run the app.
-
-<img src="./img/img1.jpg" alt="Logo" width="80" height="80">
+* In command line type to run the app.
+```sh
+npm start
+```
+<a href="https://github.com/anand434/NodeJs-Express-App/README.md">
+  <img src="img/img1.jpg" alt="Logo" width="80" height="80">
+</a>
